@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+openai
+glob2
+pandas
+pandasai
+beautifulsoup4
